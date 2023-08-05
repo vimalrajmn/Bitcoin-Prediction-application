@@ -20,10 +20,6 @@ WHAT I HAD DONE
 6. finally 3 different algorithms are used to find the best algorithm 
 7. also accuracy score of each algorithm is calculated for comparison purpose with other algorithms
 
-LINK TO WEBAPP:
-
-https://share.streamlit.io/tandrimasingha/bitcoin-price-prediction-web-app/main/app.py
-
 
 GLANCE AT THE WEBAPP
 
@@ -57,4 +53,4 @@ We can conclude that our Web App predicts the best with  Lasso Regression and gi
 
 CONTRIBUTED BY
 
-Tandrima Singha
+Vimalraj
